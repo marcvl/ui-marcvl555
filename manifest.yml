@@ -5,4 +5,5 @@ applications:
 name: MicroservicesUI
 memory: 256M
 instances: 1
-host: ms-UI-${random-word}
+host: ms-UI-marcvl555
+
